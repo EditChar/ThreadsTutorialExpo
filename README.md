@@ -11,7 +11,7 @@ npx expo lottie-react-native</br>
 yarn add -D @faker-js/faker</br>
 npx expo install expo-image</br>
 
-Geliştirilebilecekler </br>
+**Geliştirilebilecekler** </br>
 beğeni, yorum, random user profilleri gösterimi ve paylaşım gibi seçenekler ile geliştirilebilir.</br>
 belirli aralıklarla random post üretmesi devam ettirilebilir</br>
 
