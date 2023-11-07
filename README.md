@@ -1,5 +1,5 @@
 # ThreadsTutorialExpo
-faker kütüphanesi denenerek home screen olarak başlangıç threads app tutorial TypeScript.</br></br>
+faker-js kütüphanesi denenerek home screen olarak başlangıç threads app tutorial TypeScript.</br></br>
 npx create-expo-app --template</br>
 navigation typescript</br>
 node modul ve pack lock json silinir</br>
