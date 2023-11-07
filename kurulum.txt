@@ -1,0 +1,9 @@
+npx create-expo-app --template
+navigation typescript
+node modul ve pack lock json silindi
+yarn
+yarn add expo
+npx expo start
+npx expo lottie-react-native
+yarn add -D @faker-js/faker
+npx expo install expo-image
